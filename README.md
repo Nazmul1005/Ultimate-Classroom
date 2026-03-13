@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 Ultimate Classroom
+## 🎓 Ultimate Classroom
 
 ### *A Real-Time Virtual Classroom with AI Superpowers*
 
