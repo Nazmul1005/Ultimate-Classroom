@@ -21,7 +21,7 @@
 
 ---
 
-## 📸 App Screenshots
+### 📸 App Screenshots
 
 ### 🏠 Home — Join or Start a Session
 ![Home Page](./public/screenshots/home.png)
