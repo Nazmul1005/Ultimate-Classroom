@@ -9,7 +9,7 @@ export default defineConfig({
       '/socket.io': {
         target: 'http://localhost:3001',
         ws: true,
-        changeOrigin: true, // Crucial for routing headers correctly
+        changeOrigin: true, //  Crucial for routing headers correctly
         secure: false,      // Use only if target is not HTTPS
       },
       '/peerjs': {
